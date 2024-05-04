@@ -65,6 +65,6 @@ Web application designed to promote a healthier lifestyle by providing personali
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](www.linkedin.com/in/esraa-alhussain-997ab789)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/esraa-alhussain-997ab789/)
 
 Let's connect and build something amazing together! 🚀
