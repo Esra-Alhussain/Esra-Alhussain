@@ -34,7 +34,7 @@ I'm a front-end developer with experience in building responsive and optimized s
 - 💬 Ask me about JavaScript, React, Redux, or anything related to web development!
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,react,redux,postgresql,mongodb,node,figma,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,postgresql,mongodb,node.js,figma,xd)](https://skillicons.dev)
 
 
 ## PROJECTS
