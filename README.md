@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 **Esra-Alhussain/Esra-Alhussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hi, I'm Israa! 👋
+# Hi, I'm Esra! 👋
 
 I'm a front-end developer with experience in building responsive and optimized sites. I also have experience developing fast and optimized back-end systems and APIs. Additionally, I have designed multiple landing pages and created design systems as well.
 
